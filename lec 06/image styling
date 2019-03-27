@@ -1,4 +1,24 @@
 <!doctype html>
+<style>
+
+    img:hover
+
+    {
+        cursor: s-resize;
+
+        border: solid red;
+
+        border-radius: 50%;
+
+        box-shadow: 10px 10px black;
+
+
+    }
+
+</style>
+
+
+
 <head>
     <title>image </title>
 </head>
